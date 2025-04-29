@@ -72,6 +72,8 @@ What are the different autoscaling policies in AWS.
 
 Create a custom VPC with its custom subnet, custom rout table, custom internet gateway the create a public instance using this public VPC and access internet
 
+upload object in s3 bucket using aws cli (1gb atleast)
+
 
 
 
