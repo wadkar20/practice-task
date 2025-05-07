@@ -74,6 +74,9 @@ Create a custom VPC with its custom subnet, custom rout table, custom internet g
 
 upload object in s3 bucket using aws cli (1gb atleast)
 
+what are diffrent logs storge classes.
+
+
 
 
 
