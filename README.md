@@ -76,6 +76,12 @@ upload object in s3 bucket using aws cli (1gb atleast)
 
 what are diffrent logs storge classes.
 
+find the service in aws  which managed non reletional data type. 
+
+diffrece between rds and non rds.
+
+find all the port mention in rds database engine.
+
 
 
 
