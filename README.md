@@ -82,6 +82,17 @@ diffrece between rds and non rds.
 
 find all the port mention in rds database engine.
 
+what are different routing policy in route 53.
+
+differnt type of records.
+
+aws three tier architecture.
+
+
+
+
+
+
 
 
 
