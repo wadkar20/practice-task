@@ -88,6 +88,25 @@ differnt type of records.
 
 aws three tier architecture.
 
+# git
+task git==
+run all git command 
+ create file 
+ push into github repository named b14
+ see status logs
+
+ docker tasks==
+
+ run a container of ubuntu, nginx-81, jenkins, nginx-80
+ run all the command
+ docker exec it
+ nginx--index.html--my name xyz
+
+ diffrence between docker,docker compose & docker stop.
+  
+ 
+
+
 
 
 
