@@ -102,7 +102,11 @@ run all git command
  docker exec it
  nginx--index.html--my name xyz
 
- diffrence between docker,docker compose & docker swarm.
+ diffrence between docker,docker compose & docker swarm
+
+ what is fork
+
+ 
   
  
 
