@@ -111,6 +111,29 @@ run all git command
 
 why only docker not other tool.
 diffrence between vm and containerization.
+
+# kubernetes
+
+you have provisned eks cluster for customer following the best practices please provision the cluster.
+how to do server hardning.
+migration pv gp2 to gp3.
+wait for first consumer.
+acess mode.
+what are 5 best practices while creating cluster.
+
+-n ==== namespace 
+
+kubectl get pods
+kubectl get ns 
+kubectl create ns class name 
+kubectl apply -f file name
+kubectl describe pod
+kubectl delete pod
+
+
+
+
+
  
   
 
